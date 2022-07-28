@@ -61,7 +61,7 @@ export default class IndecisionApp extends React.Component {
     console.log('componentWillUnmount');
   }
   render() {
-    const subtitle = 'What do you wanna write?';
+    const subtitle = 'Let the computer guess what should you do...';
 
     return (
       <div>
